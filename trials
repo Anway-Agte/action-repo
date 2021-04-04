@@ -3,17 +3,4 @@ Trial one :
 Figuring out push request . 
 This is in side branch . 
 
-And this is in branch main. 
-Commit 1 
-Commit 2
-Commit 4 
-API checking
-configuring github api 
-getting branch pushed 
-getting commit
-checking 
-datetime patch
-formatting timestamp
-updating timestamp
-database connected ? 
-hoping to collect push data 
+Configuring mongodb conenction
